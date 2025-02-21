@@ -1,2 +1,5 @@
 user joe
 topic readwrite allowed
+
+user root
+topic readwrite #
